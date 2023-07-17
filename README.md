@@ -4,7 +4,7 @@
 
 ## Poster
 
-[Poster PDF](./poster/poster.pdf)
+[Poster at OHDSI Global Symposium 2021](https://www.ohdsi.org/2021-global-symposium-showcase-20/)
 
 ## Code
 
